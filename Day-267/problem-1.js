@@ -193,3 +193,7 @@ console.log(validator.validate({
 
 // --- Invalid Input ---
 console.log(createFormValidator("invalid"));
+
+
+// Export function for reuse in other problems
+module.exports = { createFormValidator };
