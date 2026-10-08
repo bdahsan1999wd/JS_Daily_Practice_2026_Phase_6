@@ -1,4 +1,4 @@
-// 🧩 PROBLEM–01: createInterfaceEngine()
+// PROBLEM–01: createInterfaceEngine()
 
 // Logic: This function creates a TypeScript-like interface definition engine. It validates interface definitions, supports interface inheritance, validates objects against flattened interface properties, generatesTypeScript interface strings, merges interfaces, and produces reports.
 
