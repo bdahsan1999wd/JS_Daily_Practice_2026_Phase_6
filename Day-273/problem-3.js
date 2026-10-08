@@ -1,4 +1,4 @@
-// 🧩 PROBLEM–03: createStructuralTypeChecker()
+// PROBLEM–03: createStructuralTypeChecker()
 
 // Logic: This function creates a TypeScript-style structural typing engine. It checks whether values satisfy required object shapes, detects missing properties and type mismatches, supports subtype checking, compatibility searching, assignability, type differences, and complexity reporting.
 
